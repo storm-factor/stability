@@ -13,9 +13,9 @@
 
 ###     Задание 2
 
-![ex2-1](./files/ex2-1.png)
-![ex2-2](./files/ex2-2.png)
-![ex2-3](./files/ex2-3.png)
+![ex2-1](./screenshots/ex2-1.png)
+![ex2-2](./screenshots/ex2-2.png)
+![ex2-3](./screenshots/ex2-3.png)
 
 [scriptfile](./files/scriptfile)
 [keepalived.conf](./files/keepalived.conf)
