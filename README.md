@@ -8,7 +8,7 @@
 ![ex4](./screenshots/1-4.png)
 ![ex5](./screenshots/1-5.png)
 
-[Файл-pkt](./files/hsrp_advanced-Pirogov\ aa\ .pkt)
+[Файл-pkt](./files/hsrp_advanced-Pirogov.pkt)
 
 
 ###     Задание 2
@@ -17,5 +17,5 @@
 ![ex2-2](./screenshots/ex2-2.png)
 ![ex2-3](./screenshots/ex2-3.png)
 
-[scriptfile](./files/scriptfile)
+[scriptfile](./files/scriptfile.sh)
 [keepalived.conf](./files/keepalived.conf)
