@@ -2,21 +2,24 @@
 
 ###     Задание 1 
 
-![ex1](./screenshots/1-1.png)
-![ex2](./screenshots/1-2.png)
-![ex3](./screenshots/1-3.png)
-![ex4](./screenshots/1-4.png)
-![ex5](./screenshots/1-5.png)
+![ex1-1](./screenshots/1-1.png)
+![ex1-2](./screenshots/1-2.png)
 
-[Файл-pkt](./files/hsrp_advanced-Pirogov.pkt)
+[haproxy.cfg](./files/haproxy.cfg-ex1)
 
 
 ###     Задание 2
 
 ![ex2-1](./screenshots/ex2-1.png)
 ![ex2-2](./screenshots/ex2-2.png)
-![ex2-3](./screenshots/ex2-3.png)
 
-[scriptfile](./files/scriptfile.sh)
+[haproxy.cfg](./files/haproxy.cfg-ex2)
 
-[keepalived.conf](./files/keepalived.conf)
+
+###     Задание 3
+
+![ex3-1](./screenshots/ex3-1.png)
+![ex3-2](./screenshots/ex3-2.png)
+
+
+[haproxy.cfg](files/haproxy.cfg-ex3)	[example-http.conf](files/example-http.conf)	[nginx.conf](files/nginx.conf)	[upstream.inc](files/upstream.inc)
