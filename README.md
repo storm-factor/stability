@@ -2,8 +2,8 @@
 
 ###     Задание 1 
 
-![ex1-1](./screenshots/1-1.png)
-![ex1-2](./screenshots/1-2.png)
+![ex1-1](./screenshots/ex1-1.png)
+![ex1-2](./screenshots/ex1-2.png)
 
 [haproxy.cfg](./files/haproxy.cfg-ex1)
 
@@ -22,4 +22,4 @@
 ![ex3-2](./screenshots/ex3-2.png)
 
 
-[haproxy.cfg](files/haproxy.cfg-ex3)	[example-http.conf](files/example-http.conf)	[nginx.conf](files/nginx.conf)	[upstream.inc](files/upstream.inc)
+[haproxy.cfg](files/haproxy.cfg-ex3)		[example-http.conf](files/example-http.conf)		[nginx.conf](files/nginx.conf)		[upstream.inc](files/upstream.inc)
