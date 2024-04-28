@@ -1,4 +1,4 @@
-# «Disaster Recovery. FHRP и Keepalived» - Pirogov Anton
+# «Кластеризация и балансировка нагрузки» - Pirogov Anton
 
 ###     Задание 1 
 
