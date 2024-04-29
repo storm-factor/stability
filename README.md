@@ -4,8 +4,7 @@
 
 ![ex1-1](./screenshots/ex1-1.png)
 ![ex1-2](./screenshots/ex1-2.png)
-
-[haproxy.cfg](./files/haproxy.cfg-ex1)
+![ex1-3](./screenshots/ex1-3.png)
 
 
 ###     Задание 2
@@ -13,13 +12,9 @@
 ![ex2-1](./screenshots/ex2-1.png)
 ![ex2-2](./screenshots/ex2-2.png)
 
-[haproxy.cfg](./files/haproxy.cfg-ex2)
+[script-rsync.sh](./files/script-rsync.sh)
 
 
 ###     Задание 3
 
-![ex3-1](./screenshots/ex3-1.png)
-![ex3-2](./screenshots/ex3-2.png)
-
-
-[haproxy.cfg](files/haproxy.cfg-ex3)		[example-http.conf](files/example-http.conf)		[nginx.conf](files/nginx.conf)		[upstream.inc](files/upstream.inc)
+![ex3-1](./screenshots/ex3.png)
